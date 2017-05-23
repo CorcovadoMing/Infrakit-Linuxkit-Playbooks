@@ -13,7 +13,7 @@ start : start-infrakit.sh
 stop  : stop-infrakit.sh
 
 # sshd example
-demo-sshd : examples/sshd/index.yml
+#demo-sshd : examples/sshd/index.yml
 
 # Examples
 #examples : examples/index.yml
